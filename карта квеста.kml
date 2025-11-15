@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>карта квеста</name>
+    <NetworkLink>
+      <name>Карта квеста по Ришону</name>
+      <Link>
+        <href><![CDATA[https://www.google.com/maps/d/u/1/kml?forcekml=1&mid=1KrN2DE7uJpWgXk2f8bZT0oWXIF8fzv8&lid=HdcMY6f2YW8]]></href>
+      </Link>
+    </NetworkLink>
+  </Document>
+</kml>
